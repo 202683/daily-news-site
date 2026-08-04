@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每日科技与新消费资讯</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e8ecf1;
+        }
+        h1 {
+            color: #1a1a2e;
+            margin-bottom: 6px;
+            font-size: 28px;
+        }
+        .subtitle {
+            color: #8892b0;
+            font-size: 14px;
+        }
+        .update-time {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 4px;
+        }
+        .section {
+            background: #fff;
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .section h2 {
+            color: #1a73e8;
+            margin-bottom: 16px;
+            font-size: 1.25em;
+            border-left: 4px solid #1a73e8;
+            padding-left: 12px;
+        }
+        .news-item {
+            padding: 14px 0;
+            border-bottom: 1px solid #f0f2f5;
+        }
+        .news-item:last-child { border-bottom: none; }
+        .news-title {
+            font-size: 1.05em;
+            font-weight: 500;
+        }
+        .news-title a {
+            color: #1a1a2e;
+            text-decoration: none;
+        }
+        .news-title a:hover {
+            color: #1a73e8;
+            text-decoration: underline;
+        }
+        .news-title-en {
+            font-size: 0.85em;
+            color: #8892b0;
+            margin-top: 4px;
+            word-break: break-word;
+        }
+        .news-summary {
+            color: #555;
+            margin: 8px 0 4px 0;
+            font-size: 0.95em;
+        }
+        .news-meta {
+            font-size: 0.82em;
+            color: #999;
+            margin-top: 4px;
+        }
+        .news-source {
+            color: #4a4a6a;
+            font-weight: 500;
+        }
+        .news-time {
+            color: #aaa;
+        }
+        footer {
+            text-align: center;
+            color: #bbb;
+            font-size: 0.8em;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+        .lang-tag {
+            display: inline-block;
+            font-size: 0.65em;
+            background: #e8ecf1;
+            color: #666;
+            padding: 0 8px;
+            border-radius: 10px;
+            margin-left: 8px;
+            vertical-align: middle;
+        }
+        @media (max-width: 600px) {
+            body { padding: 12px; }
+            .section { padding: 16px; }
+            h1 { font-size: 22px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📰 每日科技与新消费资讯</h1>
+        <div class="subtitle">自动聚合 · 每日更新 · 中英对照</div>
+        <div class="update-time">⏱ 最后更新（北京时间）：{{ update_time }}</div>
+    </header>
+
+    {% for section_name, news_list in sections.items() %}
+    <section class="section">
+        <h2>{{ section_name }}</h2>
+        {% if news_list %}
+            {% for news in news_list %}
+            <div class="news-item">
+                <div class="news-title">
+                    <a href="{{ news.url }}" target="_blank" rel="noopener noreferrer">
+                        {{ news.title }}
+                    </a>
+                    <span class="lang-tag">中文</span>
+                </div>
+                {% if news.title_en and news.title_en != news.title %}
+                <div class="news-title-en">
+                    📖 {{ news.title_en }}
+                    <span class="lang-tag">原文</span>
+                </div>
+                {% endif %}
+                {% if news.summary %}
+                <p class="news-summary">{{ news.summary }}</p>
+                {% endif %}
+                <div class="news-meta">
+                    <span class="news-source">📰 {{ news.source }}</span>
+                    {% if news.publish_time %}
+                    <span class="news-time"> · {{ news.publish_time }}</span>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        {% else %}
+            <p style="color: #aaa; text-align: center; padding: 24px 0;">最近24小时暂无相关新闻</p>
+        {% endif %}
+    </section>
+    {% endfor %}
+
+    <footer>
+        本页面由程序自动聚合生成 · 新闻版权归原媒体所有 · 点击标题可跳转至原文
+    </footer>
+</body>
+</html>
