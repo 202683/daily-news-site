@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-04 13:51:24",
+  "update_time": "2026-08-04 13:59:59",
   "sections": {
     "国际科技新闻": [
       {
@@ -59,14 +59,6 @@
         "publish_time": "2026-08-01 21:13"
       },
       {
-        "title": "如何保护您的 Claude 聊天记录和 Google 文件的私密性 - theguardian.com",
-        "title_en": "How to keep your Claude chats and Google files private - theguardian.com",
-        "summary": "How to keep your Claude chats and Google files private theguardian.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUhuenBjem5HejBkNi0yWjFpeWFOTGQ4X18xY1BnZkVpSHh1R1NLeWRPQ1IyOXczUXNiSDRLMThZVkJIWVkzU2x5MzFzY1hOOVpjemN3Zk43cjVXbTQ0S1gxSWVheDQ0ZXlVa3NMZWUteFRmTnp4UHdnSjJ1dFh6N1FBem1DZG1hWG1nR0lReXA5Rlh4SDhKRFljajh0NmdCbVBCcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "source": "theguardian.com",
-        "publish_time": "2026-07-30 01:07"
-      },
-      {
         "title": "杰夫·贝佐斯 (Jeff Bezos) 支持一家价值 26 亿美元的人工智能初创公司，该公司与 Nvidia 和 Meta 合作开发新芯片材料 - The Motley...",
         "title_en": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials - The Motley...",
         "summary": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials The Motley Fool",
@@ -81,9 +73,25 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0xDZTJtX2lYbm9PTFZJODdpOFlpSFFqRFQ1WXhtVEEtVV9LVkMxU0dWSXZsQjhrU2ZaQ1p0UzhfV094NGNFNDRUdkZFdi15WTY1R05IUlhIa0wzTEpaZXZPZS1NZkF6TDRJMUFpUVIwTUo5b3lsSi1oY1djV0xVZ3k0ZjZSbEF5VG82SEZDSFJ3MFJOQ2JoOUJ4ZDk1N1FMZWR1cHQwWmloV19U?oc=5&hl=en-US&gl=US&ceid=US:en",
         "source": "24/7 Wall St.",
         "publish_time": "2026-08-03 23:00"
+      },
+      {
+        "title": "2026 年剩下的时间里，英特尔还是美光更危险？- 24/7 华尔街",
+        "title_en": "Is Intel or Micron More Dangerous for the Rest of 2026? - 24/7 Wall St.",
+        "summary": "Is Intel or Micron More Dangerous for the Rest of 2026? 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHhxZnJlZG9JX09jV01qMm05WFNjbmRRUDB6RkNJSE9wRVc3dk1tVktMOGpOdGIxcnlWbVd1VzZxUmM3cmRXNlVON1p4N01IUWxGZzZhZVFyR1VFLUtpSVJmV1BWSUJvTWh0MWNIa1BSVlFhdlppb0ZwZXk1eEVYZGJrT2k5TWF0WjVPLUpPZG54SXNHRTFXSUpsemlQdG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source": "24/7 Wall St.",
+        "publish_time": "2026-07-30 01:43"
       }
     ],
     "国内科技新闻": [
+      {
+        "title": "阿里腾讯字节集体下注，AI办公走向入口决战 - 观察者",
+        "title_en": "阿里腾讯字节集体下注，AI办公走向入口决战 - 观察者",
+        "summary": "阿里腾讯字节集体下注，AI办公走向入口决战 观察者",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CTGlQRm1RVmZnZ0UtSzhPRDlDd0s4MXlTZTVJeWhtdFlpWnhHRGZFc0xiTHVsYktvOEMzcHBPMzRJZ0JLeC05UkpPUk1GeFFsQnRDcWtHZzBHXy1ZMEZRdUVLdFM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source": "观察者",
+        "publish_time": "2026-08-04 09:44"
+      },
       {
         "title": "中国AI竞赛再升级 阿里巴巴推出最新模型 - dw.com",
         "title_en": "中国AI竞赛再升级 阿里巴巴推出最新模型 - dw.com",
@@ -99,14 +107,6 @@
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xUnlSWDBRcl9yYzU4cGZxd2pSRWFDSEdPeXBtTGFFWGtDTk41VzNuQVlwZUc3VFdzbk9tT0xDTVFYS25CdlE?oc=5&hl=en-US&gl=US&ceid=US:en",
         "source": "智东西",
         "publish_time": "2026-08-03 22:36"
-      },
-      {
-        "title": "阿里腾讯字节集体下注，AI办公走向入口决战 - 观察者",
-        "title_en": "阿里腾讯字节集体下注，AI办公走向入口决战 - 观察者",
-        "summary": "阿里腾讯字节集体下注，AI办公走向入口决战 观察者",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CTGlQRm1RVmZnZ0UtSzhPRDlDd0s4MXlTZTVJeWhtdFlpWnhHRGZFc0xiTHVsYktvOEMzcHBPMzRJZ0JLeC05UkpPUk1GeFFsQnRDcWtHZzBHXy1ZMEZRdUVLdFM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "source": "观察者",
-        "publish_time": "2026-08-04 09:44"
       },
       {
         "title": "China’s ByteDance, Alibaba Merge AI Office Tools in Push to Commercialize AI - 一财全球Yicai Global",
@@ -199,14 +199,6 @@
         "publish_time": "2026-08-04 02:08"
       },
       {
-        "title": "方洪波：美的的威胁从来都来自内部，从没说过小米是最大“竞对”|小米科技|美的集团|洗衣机|投资者|董事长_手机新浪网 - 新​​浪网",
-        "title_en": "方洪波：美的的威胁从来都来自内部，从没说过小米是最大“竞对”|小米科技|美的集团|洗衣机|投资者|董事长_手机新浪网 - 新浪网",
-        "summary": "方洪波：美的的威胁从来都来自内部，从没说过小米是最大“竞对”|小米科技|美的集团|洗衣机|投资者|董事长_手机新浪网 新浪网",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcjdZRGdieTd4Ni1hVDduWDB1bFRubW1ZalVpWU42dE0wcG5lbndFWERBZm04VkpZd0VSWl96aF8zR2xsaFViN3JINTZYNXU0SEZWUmVoTHpCNHJnUU5ZNlRyalJJVlJzSzJqb25RNS1qWG5vV3RTcEk2dURrTVN1aU9ZMHdzVkhQZm9iQWt3VkVjd09QMEl4X09MaTBtQWw2MHRlOVBndWhwc0toRUNqMWd2TE9sLXNXd1NDMUpsS0VZYVJzWjNNTXVxNFl0NzRQcU5DZ3p1c094eDdQdzhxZ1hmZ1FpLWFoSzAwVjBsLXpVRm5qcDdhZkpnZjlRUHlwQmxGWk1WLV9mOWJSdExJZHdnTVl1NnBWcWJGbzMtbWJtWEpCd2V5SUVhZGVQVzQ3Y2pjajJuWjBFdkFMSUV1UGRGa28?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "source": "新浪网",
-        "publish_time": "2026-08-04 00:08"
-      },
-      {
         "title": "消费ETF易方达（159798）开盘涨0.11%，重仓股贵州茅台跌0.66%，美的集团涨0.10% - 搜狐网",
         "title_en": "消费ETF易方达（159798）开盘涨0.11%，重仓股贵州茅台跌0.66%，美的集团涨0.10% - 搜狐网",
         "summary": "消费ETF易方达（159798）开盘涨0.11%，重仓股贵州茅台跌0.66%，美的集团涨0.10% 搜狐网",
@@ -237,6 +229,14 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84LWQycEpoa0Nha3M3b3g0eVFCaE5WbGVyV00zQ1pYT0xnXzRRMWlNdHd4dHpOeVh2bThlb2xNNlVST0VCdlFJdHNVR3VDWE1sbkdSY0lFbGpzMjZGN1U3b3l3?oc=5&hl=en-US&gl=US&ceid=US:en",
         "source": "证券之星",
         "publish_time": "2026-08-04 06:31"
+      },
+      {
+        "title": "快猫下载安卓破解版游戏 - 香港中联办",
+        "title_en": "快猫下载安卓破解版游戏 - 香港中联办",
+        "summary": "快猫下载安卓破解版游戏 香港中联办",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOURiOUcwb2FXb0hncmdLVF9pUjA1emhaUXg3TmdyRTdtVzhNanlMT2hlVGdOazdFTzRhNlR0bnZQUmVBc0VaWmM5bUVOQW1aSVp6X1k5SzlNQTFUVmQ0ZWxiS3pLM1BDQzlhczkxVmJKYmZrejU2eVRZNUUwOG81S0k5UEEzd2xSS2N3WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source": "香港中联办",
+        "publish_time": "2026-08-03 16:58"
       },
       {
         "title": "经济不烧脑｜猛犸象也姓“中”了，但它能成下一个始祖鸟吗？- 湖北日报传媒集团",
