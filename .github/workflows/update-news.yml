@@ -2,7 +2,8 @@ name: 每日更新新闻
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '20 9 * * *'
+      timezone: 'Asia/Shanghai'
   workflow_dispatch:
 
 permissions:
