@@ -1,86 +1,86 @@
 {
-  "update_time": "2026-08-22 11:28:54",
+  "update_time": "2026-08-23 12:00:06",
   "sections": {
     "国内科技新闻": [
       {
-        "title": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
+        "title": "阿里又到了换剑时刻",
         "title_en": "",
-        "summary": "参数量只是知识的仓库，真正决定智能的是FLOPs。",
-        "url": "https://www.tmtpost.com/8112064.html",
+        "summary": "一个门派真正困难的时刻，从来不是旧武功突然失效，而是旧武功依然能赢，却已经不足以决定下一场战争。",
+        "url": "https://www.tmtpost.com/8113147.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:11:36 +0800"
+        "publish_time": "Sun, 23 Aug 2026 11:28:31 +0800"
       },
       {
-        "title": "WRC2026深度观察：机器人行业，正在去表演化、去差异化",
+        "title": "427万辆召回，没有一款油车：第一性原理失守的车门把手",
         "title_en": "",
-        "summary": "看似火热的WRC展会之下，人形机器人的创新红利正在悄悄消退。",
-        "url": "https://www.tmtpost.com/8112444.html",
+        "summary": "这次召回事件最刺痛的不是\"门把手设计问题\"，而是这么多顶级企业的顶级工程师，在 IATF16949、DFMEA、APQP、第三方认证这些流程的护送下，依然做出了\"极端情况下打不开车门\"的设计。",
+        "url": "https://www.tmtpost.com/8113238.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:11:05 +0800"
+        "publish_time": "Sun, 23 Aug 2026 11:28:30 +0800"
       },
       {
-        "title": "破防了，WRC上的机器人，比我还会过日子",
+        "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
         "title_en": "",
-        "summary": "中国机器人，跟中国人一样实在。",
-        "url": "https://www.tmtpost.com/8112486.html",
+        "summary": "模型需要真实场景产生数据，但真实场景又需要足够成熟的模型和能够算得过来的成本，才愿意大规模部署机器人。",
+        "url": "https://www.tmtpost.com/8113119.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:11:01 +0800"
+        "publish_time": "Sun, 23 Aug 2026 11:11:25 +0800"
       },
       {
-        "title": "AI算力紧缺时代，大学生买不起电脑了",
+        "title": "捷报接二连三，迎接个性化免疫疗法的大时代",
         "title_en": "",
-        "summary": "硬件涨价将成为行业“新常态”。",
-        "url": "https://www.tmtpost.com/8112433.html",
+        "summary": "大幕开启，期待更多答案",
+        "url": "https://www.tmtpost.com/8113108.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:10:40 +0800"
+        "publish_time": "Sun, 23 Aug 2026 11:11:23 +0800"
       },
       {
-        "title": "砸 12 亿的《诡秘之主》终于公测了，2026 年，为什么还有人敢做 MMO？",
+        "title": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话",
         "title_en": "",
-        "summary": "逆水寒2.0？",
-        "url": "https://www.tmtpost.com/8112404.html",
+        "summary": "一个人就是一支AI 交易团队。",
+        "url": "https://www.tmtpost.com/8111128.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:09:50 +0800"
+        "publish_time": "Sun, 23 Aug 2026 10:42:45 +0800"
       },
       {
-        "title": "深圳华强北，成了欧洲人的快乐老家？",
+        "title": "阿里吴泳铭：别怕，Capex三年回本",
         "title_en": "",
-        "summary": "一座科技版的“迪士尼”。",
-        "url": "https://www.tmtpost.com/8112422.html",
+        "summary": "三年回本怎么算的？",
+        "url": "https://www.tmtpost.com/8113081.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:09:21 +0800"
+        "publish_time": "Sun, 23 Aug 2026 10:36:28 +0800"
       },
       {
-        "title": "阿里接力赛：淘天见顶，外卖降权，算力狂飙，AI赌未来",
+        "title": "王坚的“遗产”，为阿里留出后路",
         "title_en": "",
-        "summary": "炼金卖铲挖矿，阿里青黄续接。",
-        "url": "https://www.tmtpost.com/8112056.html",
+        "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
+        "url": "https://www.tmtpost.com/8112848.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:04:51 +0800"
+        "publish_time": "Sat, 22 Aug 2026 18:27:40 +0800"
       },
       {
-        "title": "与AI同游，从2026 ChinaJoy看AI游戏新趋势",
+        "title": "订单跑在收入前，透过万国数据看数据中心的真相",
         "title_en": "",
-        "summary": "创作门槛下降推动内容筛选机制升级，研发智能体推动工程流程质量控制优化，AI角色对规则体系和治理能力提出更高要求。",
-        "url": "https://www.tmtpost.com/8112375.html",
+        "summary": "AI订单涨疯了，利润还在路上。",
+        "url": "https://www.tmtpost.com/8112373.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 10:04:44 +0800"
+        "publish_time": "Sat, 22 Aug 2026 18:26:20 +0800"
       },
       {
-        "title": "豆包开始收酒店渠道费，老板们为什么不骂反喜？",
+        "title": "3万亿美元隐形债务浮出水面：“AI基建潮”会引发下一场次贷危机吗？",
         "title_en": "",
-        "summary": "怎么被AI看见，成酒店运营新KPI。",
-        "url": "https://www.tmtpost.com/8112036.html",
+        "summary": "真实需求不能阻止泡沫，现金流才能偿还债务。",
+        "url": "https://www.tmtpost.com/8112363.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 09:59:12 +0800"
+        "publish_time": "Sat, 22 Aug 2026 18:26:13 +0800"
       },
       {
-        "title": "中小工厂加速抱团取暖，不是解药，而是自救",
+        "title": "中银消金：利润暴涨的逻辑",
         "title_en": "",
-        "summary": "6348 万中小制造企业陷入内卷，抱团取暖成为风潮，但抱团并不是制造业破局的终极答案。",
-        "url": "https://www.tmtpost.com/8112341.html",
+        "summary": "当前，消金行业正站在十字路口，过往大开大合、低垂的果实挂满枝头的时代已经落幕，取而代之的是缓步慢行，存量博弈的新周期。",
+        "url": "https://www.tmtpost.com/8112417.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 22 Aug 2026 09:51:39 +0800"
+        "publish_time": "Sat, 22 Aug 2026 18:26:09 +0800"
       }
     ],
     "国际科技新闻": [
@@ -93,36 +93,20 @@
         "publish_time": "Wed, 19 Aug 2026 20:28:41 GMT"
       },
       {
-        "title": "2025 AI巨头“全员恶人”：恩怨、爱恨与算计 - 36 Kr",
-        "title_en": "",
-        "summary": "2025 AI巨头“全员恶人”：恩怨、爱恨与算计&nbsp;&nbsp;36 Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iZDVtMGx6elE4U2otQnZaOW53dXNDQXdUbGJBcU01NjdLazZNaUpacFBZLUMwTEMtdk9HMzBxVUVjZ2hDT01TWDlCaExRdw?oc=5",
-        "source": "36 Kr",
-        "publish_time": "Tue, 06 Jan 2026 08:00:00 GMT"
-      },
-      {
-        "title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤 - 智东西",
-        "title_en": "",
-        "summary": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤&nbsp;&nbsp;智东西",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Ub29RSFJFVk81Vnd2anVDa3BsTW45RXRXbFgyN0F6dFA2eWstT2tBS0dLU0NzazFCT2ZGOF9XbmdNV3NYeXdwbg?oc=5",
-        "source": "智东西",
-        "publish_time": "Mon, 19 Jan 2026 08:00:00 GMT"
-      },
-      {
-        "title": "Claude狂印钞！Anthropic人均营收900万美元，吊打英伟达 - 智源社区",
-        "title_en": "",
-        "summary": "Claude狂印钞！Anthropic人均营收900万美元，吊打英伟达&nbsp;&nbsp;智源社区",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MaW4zM2VlTzlzaGs5d1hMRUpSdlBzSVdXQ015LUd5TXEzUldHQS1jdFRYbWw0QWpDeTJacDhtZ09kd3VCSTJnXw?oc=5",
-        "source": "智源社区",
-        "publish_time": "Tue, 12 May 2026 07:00:00 GMT"
-      },
-      {
         "title": "Big Tech earnings. $BTC 10T on the line. Tonight + tomorrow - OKX",
         "title_en": "",
         "summary": "Big Tech earnings. $BTC 10T on the line. Tonight + tomorrow&nbsp;&nbsp;OKX",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Eay1IVGZSa2o3QmE3V2ItS0FmcGowb19ERjFlVjlSRHRVUXZlN3J5dDFXX05QYjZUcXc2SWR2S0d2bnJZU3ozSnhtTkV6MDJodmg2bm1DTHB5Y09yb19Ec0FPQ2E?oc=5",
         "source": "OKX",
         "publish_time": "Tue, 18 Aug 2026 04:31:11 GMT"
+      },
+      {
+        "title": "靠API躺着赚钱的时代要终结了，Kimi 砸碎护城河、OpenAI 孤立无援、谷歌仍深陷内耗 - 36 Kr",
+        "title_en": "",
+        "summary": "靠API躺着赚钱的时代要终结了，Kimi 砸碎护城河、OpenAI 孤立无援、谷歌仍深陷内耗&nbsp;&nbsp;36 Kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wa01iSWdPQmZFS0dLOXdZOVpjb2tzOGJodmlUUTFoazZfalE4UkswdDR3d29qRDNVVVlFQ1d2enBvQlZ0cGxPN1ZfTlp4Zw?oc=5",
+        "source": "36 Kr",
+        "publish_time": "Wed, 22 Jul 2026 07:00:00 GMT"
       },
       {
         "title": "Apple's 'Thermonuclear' Response to the OpenAI Threat - Moomoo",
@@ -133,20 +117,28 @@
         "publish_time": "Sun, 12 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "支出激增 60%：微软等四巨头 2026 狂砸 6600 亿美元豪赌 AI - 新浪财经",
+        "title": "盘前猛拉5%！甲骨文抱上谷歌“大腿”，企业AI终于要赚大钱了？ - OKX",
         "title_en": "",
-        "summary": "支出激增 60%：微软等四巨头 2026 狂砸 6600 亿美元豪赌 AI&nbsp;&nbsp;新浪财经",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80X2MycnpiejJHTEZZRjFYWDhMR0c0QTJ2bVpNbHdMRHhKRXZTeDAxWVRwRkNxcE9GaXgtN1FPaE5GODdxWXFNQm4wTzhsM0xzQkZUdkdNckM2TFBaNXFSbzB4di1uNlF4QlR2X2V1Z0F5Q1l4U1FrT05IaFd1Mnc?oc=5",
-        "source": "新浪财经",
-        "publish_time": "Sat, 07 Feb 2026 08:00:00 GMT"
+        "summary": "盘前猛拉5%！甲骨文抱上谷歌“大腿”，企业AI终于要赚大钱了？&nbsp;&nbsp;OKX",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zV2t6Q1MyV2hqd29VMVZ4MERDdTRVWWwxa1B1NkRtVUNXaS1GLWhjTzZPcjMwcEx5T3hCNVBJZHJWd2JNLWQ3LVJUb2sxSENacW9RWWlEdWJQbTlGSkpRRWE5YlF6WVk?oc=5",
+        "source": "OKX",
+        "publish_time": "Fri, 07 Aug 2026 10:18:30 GMT"
       },
       {
-        "title": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan - Nweon",
+        "title": "存为王？🐷存储板块冰火两重天：近期大跌后今日集体暴涨，核心点位与后市推演 - OKX",
         "title_en": "",
-        "summary": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan&nbsp;&nbsp;Nweon",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxMnhvOVlHYk9hS0MtOTVNS3JyeWdKRW1Ma2Rxak1HcktYWEdaZkh4TjllcmR5aC1qYWEzSTZ3MFFpaWM?oc=5",
-        "source": "Nweon",
-        "publish_time": "Mon, 23 Feb 2026 08:00:00 GMT"
+        "summary": "存为王？🐷存储板块冰火两重天：近期大跌后今日集体暴涨，核心点位与后市推演&nbsp;&nbsp;OKX",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XdUN4dkRKSm05QnU2X3pGRmsxaVQyZ1NVdUxLVU5aSjdRaTI4Um1Za29RZHY2VjZWdG9hUkNXOGpnQm5vZFFPSFFzdW5ybE0yWXI1bF9zN1BZTUlWYkNtWklCTHI?oc=5",
+        "source": "OKX",
+        "publish_time": "Wed, 05 Aug 2026 23:09:51 GMT"
+      },
+      {
+        "title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤 - 智东西",
+        "title_en": "",
+        "summary": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤&nbsp;&nbsp;智东西",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Ub29RSFJFVk81Vnd2anVDa3BsTW45RXRXbFgyN0F6dFA2eWstT2tBS0dLU0NzazFCT2ZGOF9XbmdNV3NYeXdwbg?oc=5",
+        "source": "智东西",
+        "publish_time": "Mon, 19 Jan 2026 08:00:00 GMT"
       },
       {
         "title": "金融时报：苹果避开AI烧钱大战，却成为谷歌与OpenAI的“造王者” - 凤凰网科技",
@@ -157,12 +149,20 @@
         "publish_time": "Thu, 15 Jan 2026 08:00:00 GMT"
       },
       {
-        "title": "苹果官宣更换AI主管！“继任者”曾在谷歌工作16年，刚从微软跳槽 - 新浪财经_金融信息服务商",
+        "title": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan - Nweon",
         "title_en": "",
-        "summary": "苹果官宣更换AI主管！“继任者”曾在谷歌工作16年，刚从微软跳槽&nbsp;&nbsp;新浪财经_金融信息服务商",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHA4d0xpVEFTNEFIdnNyd0wxenV1dkFwTTdfeHBVV3h6Vnd1ZngtSUtDeTdVQVV4MlI1Nk5rY0thQU9IVnlHemVueHBfX05WdVpfNlNVb0M2RWxpOWZySUlIQmt0TVctMGVsLVRtdkpib3ZmdVFOb1FuWG13ZDlUZzZoZXBaSTg?oc=5",
-        "source": "新浪财经_金融信息服务商",
-        "publish_time": "Tue, 02 Dec 2025 08:00:00 GMT"
+        "summary": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan&nbsp;&nbsp;Nweon",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxMnhvOVlHYk9hS0MtOTVNS3JyeWdKRW1Ma2Rxak1HcktYWEdaZkh4TjllcmR5aC1qYWEzSTZ3MFFpaWM?oc=5",
+        "source": "Nweon",
+        "publish_time": "Mon, 23 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "支出激增 60%：微软等四巨头 2026 狂砸 6600 亿美元豪赌 AI - 新浪财经",
+        "title_en": "",
+        "summary": "支出激增 60%：微软等四巨头 2026 狂砸 6600 亿美元豪赌 AI&nbsp;&nbsp;新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80X2MycnpiejJHTEZZRjFYWDhMR0c0QTJ2bVpNbHdMRHhKRXZTeDAxWVRwRkNxcE9GaXgtN1FPaE5GODdxWXFNQm4wTzhsM0xzQkZUdkdNckM2TFBaNXFSbzB4di1uNlF4QlR2X2V1Z0F5Q1l4U1FrT05IaFd1Mnc?oc=5",
+        "source": "新浪财经",
+        "publish_time": "Sat, 07 Feb 2026 08:00:00 GMT"
       }
     ],
     "国内新消费新闻": [],
