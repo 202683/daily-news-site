@@ -1,89 +1,97 @@
 {
-  "update_time": "2026-09-25 14:10:11",
+  "update_time": "2026-09-26 14:10:34",
   "sections": {
     "国内科技新闻": [
       {
-        "title": "高端 PCB 扩产潮升温，自动化装备成标配",
+        "title": "【数智周报】 千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
         "title_en": "",
-        "summary": "翼菲科技是较早把场景扎进PCB生产一线的样本",
-        "url": "https://www.tmtpost.com/8152330.html",
+        "summary": "（9月21日~9月26日）亚马逊官宣接入Kimi K3；超聚变发布FusionServer“无极”架构；《AI原生组织转型指南》发布",
+        "url": "https://www.tmtpost.com/8153052.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 11:47:32 +0800"
+        "publish_time": "Sat, 26 Sep 2026 12:46:19 +0800"
       },
       {
-        "title": "prompt工程师，一个新兴职业的崛起与消失",
+        "title": "从买东西到买体验：为什么4个周末替代不了一个8天长假？",
         "title_en": "",
-        "summary": "当机器越来越理解人，人就越来越少需要先学会机器喜欢的说话方式。",
-        "url": "https://www.tmtpost.com/8152516.html",
+        "summary": "“请3休13”带火长线旅行，背后不只是拼假技巧。随着服务消费占比接近一半，越来越多消费需要消费者本人到场、停留和参与。钱可以储存，时间却很难跨日期合并。四个周末和一个八天长假总量相同，却对应着完全不同的消费边界。",
+        "url": "https://www.tmtpost.com/8153043.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:45:00 +0800"
+        "publish_time": "Sat, 26 Sep 2026 12:34:26 +0800"
       },
       {
-        "title": "豆包边缘化豆包",
+        "title": "山姆没有捷径，中国零售平台集体追赶30%自营率",
         "title_en": "",
-        "summary": "豆包正在变得越来越大。",
-        "url": "https://www.tmtpost.com/8152161.html",
+        "summary": "一种从经营渠道进一步深入需求、商品和供应链的变化。",
+        "url": "https://www.tmtpost.com/8152993.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:38:00 +0800"
+        "publish_time": "Sat, 26 Sep 2026 12:31:16 +0800"
       },
       {
-        "title": "大厂的AI战火，攻入硬件",
+        "title": "0元购机，卒于2026",
         "title_en": "",
-        "summary": "从“卖设备”到“抢控制权”。",
-        "url": "https://www.tmtpost.com/8152015.html",
+        "summary": "踩下“0元购机”刹车，先飞出去的是营业厅KPI。",
+        "url": "https://www.tmtpost.com/8152955.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:33:00 +0800"
+        "publish_time": "Sat, 26 Sep 2026 12:14:54 +0800"
       },
       {
-        "title": "AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？",
+        "title": "羽绒服品牌集体抢人过冬",
         "title_en": "",
-        "summary": "八九十年代的日本动画产业，也曾面临和今天AI漫剧一样的困境——亏损，降本，商业化不足。然而仅仅数年后，日本动画产业就实现了整体盈利，产能翻倍；二次元从小众审美一跃成为日本国民文化代表，名利双收。 他们做对了什么？",
-        "url": "https://www.tmtpost.com/8152068.html",
+        "summary": "当消费寒意与行业竞争同时逼近，羽绒服品牌为何集体押注明星？",
+        "url": "https://www.tmtpost.com/8152944.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:30:26 +0800"
+        "publish_time": "Sat, 26 Sep 2026 12:14:46 +0800"
       },
       {
-        "title": "当亚运会不再热闹，中国品牌为何挤破头？",
+        "title": "阿里的蒸汽机时代",
         "title_en": "",
-        "summary": "国货集体“卷”进了名古屋赛场。",
-        "url": "https://www.tmtpost.com/8152491.html",
+        "summary": "从GMV到机器思考总量，吴泳铭给机器找了一个“马力”。",
+        "url": "https://www.tmtpost.com/8152987.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:30:21 +0800"
+        "publish_time": "Sat, 26 Sep 2026 11:35:14 +0800"
       },
       {
-        "title": "四足机器人：宇树第一，智元、云深处争第二？",
+        "title": "京东，具身智能大玩家？",
         "title_en": "",
-        "summary": "两家机构同日发榜，同一个市场，两套数字。",
-        "url": "https://www.tmtpost.com/8152163.html",
+        "summary": "不造机器人，押注机器人背后的生意。",
+        "url": "https://www.tmtpost.com/8152876.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:24:07 +0800"
+        "publish_time": "Sat, 26 Sep 2026 08:38:24 +0800"
       },
       {
-        "title": "一周连发十多篇“小作文”，粉笔超格“公考大战”还没完？",
+        "title": "悬而未决的港股聆讯，与“非洲之王”传音的利润幻象",
         "title_en": "",
-        "summary": "近期密集发布“小作文”的举动背后，是粉笔当下面临的业绩压力。",
-        "url": "https://www.tmtpost.com/8152263.html",
+        "summary": "在重新讲述自己的故事时，传音将自身定位从“卖手机”提升为“卖生态”。",
+        "url": "https://www.tmtpost.com/8152889.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:24:01 +0800"
+        "publish_time": "Sat, 26 Sep 2026 08:38:21 +0800"
       },
       {
-        "title": "千亿电子布龙头十余年赚15亿，俩股东一把套现40亿",
+        "title": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲",
         "title_en": "",
-        "summary": "在千亿市值的光环之下，宏和科技也存在股价回落的风险。",
-        "url": "https://www.tmtpost.com/8152243.html",
+        "summary": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲",
+        "url": "https://www.tmtpost.com/8152829.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:13:50 +0800"
+        "publish_time": "Sat, 26 Sep 2026 08:21:56 +0800"
       },
       {
-        "title": "小龙虾，散场了",
+        "title": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
         "title_en": "",
-        "summary": "小龙虾时代，或许正在落幕。",
-        "url": "https://www.tmtpost.com/8152158.html",
+        "summary": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
+        "url": "https://www.tmtpost.com/8152798.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Fri, 25 Sep 2026 10:05:13 +0800"
+        "publish_time": "Sat, 26 Sep 2026 08:19:43 +0800"
       }
     ],
     "国际科技新闻": [
+      {
+        "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图 - 36kr.com",
+        "title_en": "",
+        "summary": "谁在给 AI 付账单：八大科技巨头的万亿投注版图&nbsp;&nbsp;36kr.com",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUWlMeTRtMWFFa1I5Y3VxQmhqOURLNkRZSVA1THo3QVg3d1FYNXk4NTFXYXpsWExNdWROVExkNjhiVXc1eWVDY18zZXhxUQ?oc=5",
+        "source": "36kr.com",
+        "publish_time": "Sat, 29 Aug 2026 07:00:00 GMT"
+      },
       {
         "title": "英伟达拟129亿美元买下“AI界GitHub”，小鹏机器人掀起资本竞赛 - 风闻",
         "title_en": "",
@@ -93,52 +101,20 @@
         "publish_time": "Tue, 01 Sep 2026 03:08:21 GMT"
       },
       {
-        "title": "Apple's 'Thermonuclear' Response to the OpenAI Threat - Moomoo",
+        "title": "秘密会议、高管出局、押注谷歌Gemini——新Siri能否救赎库克的最后一战？ - 华尔街见闻",
         "title_en": "",
-        "summary": "Apple's 'Thermonuclear' Response to the OpenAI Threat&nbsp;&nbsp;Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGtoY3EyRURxckF1ZklNMzdoVUFsODExSUtqSmc5Ymx3RDFISXZ6MnNDeU1ZZk84clpEM0lzenFEd3VBNG9jZW9PMUNTbXlrTWdYZ2pPVUdfSFBxNWMtLUs0SXVTbTJPdUlYbm9IUTM5U0F1LV9UdFJLaG1pZ3F1dEVRZF9EakdjN2FfbG5xRWdtZ2hKdE1PUFQ3azZaVjA?oc=5",
-        "source": "Moomoo",
-        "publish_time": "Fri, 18 Sep 2026 07:00:00 GMT"
+        "summary": "秘密会议、高管出局、押注谷歌Gemini——新Siri能否救赎库克的最后一战？&nbsp;&nbsp;华尔街见闻",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UOFZjYVgzVzdDWEg1T2hZQUs0OW16dUFBUVNLem9xWUpaSmx3QzN3LVVPZFFlbkdVVWVPUXpndzRGZzhLQjRSMUd6dFJTTVB1Q1pr?oc=5",
+        "source": "华尔街见闻",
+        "publish_time": "Mon, 08 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图 - 36Kr",
+        "title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤 - 凤凰网科技",
         "title_en": "",
-        "summary": "谁在给 AI 付账单：八大科技巨头的万亿投注版图&nbsp;&nbsp;36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUWlMeTRtMWFFa1I5Y3VxQmhqOURLNkRZSVA1THo3QVg3d1FYNXk4NTFXYXpsWExNdWROVExkNjhiVXc1eWVDY18zZXhxUQ?oc=5",
-        "source": "36Kr",
-        "publish_time": "Sat, 29 Aug 2026 07:00:00 GMT"
-      },
-      {
-        "title": "自2023年，谷歌、亚马逊、微软等美国科技巨头已在AI领域砸下1万亿美元 - 凤凰网科技",
-        "title_en": "",
-        "summary": "自2023年，谷歌、亚马逊、微软等美国科技巨头已在AI领域砸下1万亿美元&nbsp;&nbsp;凤凰网科技",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxWnRyZk15RGpXNEh1VWM3cHlqQzVmTjl4QnVXQnJ4QmdoeDdGTnVmTGJ1VmJxTjRjSlVBSm1rOVFRalJMS05zNDJ0b3g?oc=5",
+        "summary": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤&nbsp;&nbsp;凤凰网科技",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xd2U3RG9GUy0xcVpPVjZiWEZtRnpzMDB6VHE1YjY3aVl0bFdrU0NBSUVaZ2JMeXIzYkNHenk2NkROQ1o5cGU2WVBkWmQ?oc=5",
         "source": "凤凰网科技",
-        "publish_time": "Mon, 03 Aug 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Claude狂印钞！Anthropic人均营收900万美元，吊打英伟达 - 智源社区",
-        "title_en": "",
-        "summary": "Claude狂印钞！Anthropic人均营收900万美元，吊打英伟达&nbsp;&nbsp;智源社区",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MaW4zM2VlTzlzaGs5d1hMRUpSdlBzSVdXQ015LUd5TXEzUldHQS1jdFRYbWw0QWpDeTJacDhtZ09kd3VCSTJnXw?oc=5",
-        "source": "智源社区",
-        "publish_time": "Tue, 12 May 2026 07:00:00 GMT"
-      },
-      {
-        "title": "靠API躺着赚钱的时代要终结了，Kimi 砸碎护城河、OpenAI 孤立无援、谷歌仍深陷内耗 - 36Kr",
-        "title_en": "",
-        "summary": "靠API躺着赚钱的时代要终结了，Kimi 砸碎护城河、OpenAI 孤立无援、谷歌仍深陷内耗&nbsp;&nbsp;36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wa01iSWdPQmZFS0dLOXdZOVpjb2tzOGJodmlUUTFoazZfalE4UkswdDR3d29qRDNVVVlFQ1d2enBvQlZ0cGxPN1ZfTlp4Zw?oc=5",
-        "source": "36Kr",
-        "publish_time": "Wed, 22 Jul 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Anthropic为什么不做硬件？ - Moomoo",
-        "title_en": "",
-        "summary": "Anthropic为什么不做硬件？&nbsp;&nbsp;Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ZVFpSmVzM1lsVnhibllkNzM2ejRzU2NuY09BOVhWYUE3N3JwR21pN0tDVHhGSlE2V29xVGZNV3RQVWljbkN2bHlOdFdfUlZqZ1FlcXVaNXV2Zw?oc=5",
-        "source": "Moomoo",
-        "publish_time": "Wed, 15 Jul 2026 07:00:00 GMT"
+        "publish_time": "Mon, 19 Jan 2026 08:00:00 GMT"
       },
       {
         "title": "消息称苹果自研AI服务器芯片将在今年下半年量产明年用于数据中心|微软|Apple|iPad|人工智能|谷歌_手机新浪网 - 新浪财经",
@@ -147,6 +123,22 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CVDdXVG5Ia2ppYXl4TGFKR1V1TF9IVDFPX0pzTkpKa25yXzNOTlF6Y2UwMkJlUC1TZ3oxNl9ORFd0RWNkNUxJY3JTTmJkQXh3VVB4M3dScEthVzZjYU1FaktPc2Q1QUl3MnhtR095bkxoSnpqdmhIOEdYOU1KUnc?oc=5",
         "source": "新浪财经",
         "publish_time": "Wed, 14 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "2025 AI巨头「全员恶人」：恩怨、爱恨与算计 - 智源社区",
+        "title_en": "",
+        "summary": "2025 AI巨头「全员恶人」：恩怨、爱恨与算计&nbsp;&nbsp;智源社区",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81cXAxNWQ4c1JQWVVRRWkxTnc1Y2JCSDJKcXZoaTdYczlRdjVIaUxOV2RKYklNcXFrR3pDSEpMT0tHWTdxYjRNUw?oc=5",
+        "source": "智源社区",
+        "publish_time": "Thu, 08 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Anthropic为什么不做硬件？ - Moomoo",
+        "title_en": "",
+        "summary": "Anthropic为什么不做硬件？&nbsp;&nbsp;Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ZVFpSmVzM1lsVnhibllkNzM2ejRzU2NuY09BOVhWYUE3N3JwR21pN0tDVHhGSlE2V29xVGZNV3RQVWljbkN2bHlOdFdfUlZqZ1FlcXVaNXV2Zw?oc=5",
+        "source": "Moomoo",
+        "publish_time": "Wed, 15 Jul 2026 07:00:00 GMT"
       },
       {
         "title": "Siri终于有救了！苹果官宣联姻谷歌但国行用户还要再等等- 其他 - 亿邦动力网",
@@ -163,6 +155,14 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWE81N0pOcm1DRGRUel9XcWVBSVVqMF9tNU5jLTdlRzdzVHJ3eS1ZcHhnVGZLSlZ0SWVXUVBfT3pPQkVOSi1ud0FLQ0toR3RqUDZva0gyc1dyT0ducGZQNmVqVjJ3NjIxcDlzOU04LVRnb0FFVy1raFh1b3VfSlZkSTREalE3Skw0MXhleUM1cGY2WnNLRHluQw?oc=5",
         "source": "新浪财经",
         "publish_time": "Fri, 20 Mar 2026 07:00:00 GMT"
+      },
+      {
+        "title": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan - Nweon",
+        "title_en": "",
+        "summary": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan&nbsp;&nbsp;Nweon",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxMnhvOVlHYk9hS0MtOTVNS3JyeWdKRW1Ma2Rxak1HcktYWEdaZkh4TjllcmR5aC1qYWEzSTZ3MFFpaWM?oc=5",
+        "source": "Nweon",
+        "publish_time": "Mon, 23 Feb 2026 08:00:00 GMT"
       }
     ],
     "国内新消费新闻": [],
@@ -176,27 +176,27 @@
         "publish_time": "Sat, 19 Sep 2026 11:09:52 GMT"
       },
       {
-        "title": "JD.Com, Amazon Slash Delivery Times to Hours as Overseas E-Commerce Battle Heats Up - Yicai",
+        "title": "JD.Com, Amazon Slash Delivery Times to Hours as Overseas E-Commerce Battle Heats Up - 一财全球Yicai Global",
         "title_en": "",
-        "summary": "JD.Com, Amazon Slash Delivery Times to Hours as Overseas E-Commerce Battle Heats Up&nbsp;&nbsp;Yicai",
+        "summary": "JD.Com, Amazon Slash Delivery Times to Hours as Overseas E-Commerce Battle Heats Up&nbsp;&nbsp;一财全球Yicai Global",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFQxVXVaTDZjS0YyWURQb1lHeGFCbGZvUkx6dGVjVUlFQnNvTFpNQkJ2UnF6ZHdQNFlXOE4zTXQwSXE4OWU1S3FURkFka25mVi1pc2Z6VFJwVXBpcTljQl9VbzZFUnB4SzdESDU0TzRha1pRcTE2Nlpvd2h6QlFFbk5tU0JxaEVZOGp5dzVpQ2VjYjV6XzhhV21JT0lwYjN3U2FLd2gwM0ZKYkxjN3dKeVk1d2o?oc=5",
-        "source": "Yicai",
+        "source": "一财全球Yicai Global",
         "publish_time": "Thu, 19 Mar 2026 10:50:43 GMT"
       },
       {
-        "title": "Walmart, Target, Amazon Lose Holiday Shoppers to China's Shein, Temu - Yicai",
+        "title": "Walmart, Target, Amazon Lose Holiday Shoppers to China's Shein, Temu - 一财全球Yicai Global",
         "title_en": "",
-        "summary": "Walmart, Target, Amazon Lose Holiday Shoppers to China's Shein, Temu&nbsp;&nbsp;Yicai",
+        "summary": "Walmart, Target, Amazon Lose Holiday Shoppers to China's Shein, Temu&nbsp;&nbsp;一财全球Yicai Global",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjFjSTdjVXQwb3RVOVR2Uml4cHFhY0xOb1F1VVdpQTVLQ3RSdlNBLTJ5S1Z3TkhBZzFGRGRfNWdzMzhWYTBuZ3JJWTh6dl8yQ3Y1WWNDMFJIek1qaVVVRWVMV3k4Ukt2R21xbkhneER4d3MxcS1aSllPLUUtSXJhcTRIUjg5QzQzT1FTLXZOdjhEWUhvY1BUa1JTa3Z4Zw?oc=5",
-        "source": "Yicai",
+        "source": "一财全球Yicai Global",
         "publish_time": "Wed, 29 Nov 2023 08:00:00 GMT"
       },
       {
-        "title": "Alibaba’s Taobao Unveils Black Label for Original Premium Fashion Brands - Yicai",
+        "title": "Alibaba’s Taobao Unveils Black Label for Original Premium Fashion Brands - 一财全球Yicai Global",
         "title_en": "",
-        "summary": "Alibaba’s Taobao Unveils Black Label for Original Premium Fashion Brands&nbsp;&nbsp;Yicai",
+        "summary": "Alibaba’s Taobao Unveils Black Label for Original Premium Fashion Brands&nbsp;&nbsp;一财全球Yicai Global",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVExVcGlvcThXRk5jQ0hMbzBPNG5TcXo3em9xbF91ZHhRM3NxRTFNQ0hLU0RuQTJHRjlLal93aFFXTFhTLU4tRzRlT0lnTktzTWlVN2x2RlBhTVM0SHlXczNBSEFHb1NCRTJIVUtTYnhSWlJKNFpoUkJWSTFPMFRmajZOaTQtaWQ0RFFIZURqQko5Q0ZqOXBiOUg4cUhOeGpJYXkydjRCSQ?oc=5",
-        "source": "Yicai",
+        "source": "一财全球Yicai Global",
         "publish_time": "Fri, 28 Aug 2026 07:00:00 GMT"
       },
       {
@@ -208,11 +208,11 @@
         "publish_time": "Thu, 05 Mar 2026 12:37:32 GMT"
       },
       {
-        "title": "Luxury Department Store SKP to Headline New Record-Breaking Guangzhou Racecourse Project - Yicai",
+        "title": "Luxury Department Store SKP to Headline New Record-Breaking Guangzhou Racecourse Project - 一财全球Yicai Global",
         "title_en": "",
-        "summary": "Luxury Department Store SKP to Headline New Record-Breaking Guangzhou Racecourse Project&nbsp;&nbsp;Yicai",
+        "summary": "Luxury Department Store SKP to Headline New Record-Breaking Guangzhou Racecourse Project&nbsp;&nbsp;一财全球Yicai Global",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3BPTTNubTgwYnQ0OTRZSXdXcGpoekhWU2lEbnk4Q2pQRjRUNnVaSWdkbk1RYW8wRmR6NjJoZFBxZUltMGhSa2pLVFRxeURGUTJBR2c1UnloT0dlU0xqTmVza1hIYnBMWFlHQ1VTZXFxNlRoYnVzVHA4UndmdXRVdUNOSTdtbjJiS2NSVThQekIwRDNIcHVHWnV1NnhCckNtcFIyODV4TFV5cVlvQVVfcVN3SEpnNHM0VmdaR2NB?oc=5",
-        "source": "Yicai",
+        "source": "一财全球Yicai Global",
         "publish_time": "Tue, 03 Mar 2026 11:45:30 GMT"
       },
       {
