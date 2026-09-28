@@ -1,89 +1,97 @@
 {
-  "update_time": "2026-09-27 14:37:12",
+  "update_time": "2026-09-28 14:54:49",
   "sections": {
     "国内科技新闻": [
       {
-        "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
+        "title": "蔚来与吉利官宣联手，各自图什么？",
         "title_en": "",
-        "summary": "GPT-6 Astra成功控制真车完成封闭场地测试，通用大模型开始迈向真实物理世界。",
-        "url": "https://www.tmtpost.com/8153325.html",
+        "summary": "车圈反内卷，不能光说不练。",
+        "url": "https://www.tmtpost.com/8153951.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sun, 27 Sep 2026 13:47:10 +0800"
+        "publish_time": "Mon, 28 Sep 2026 14:12:46 +0800"
       },
       {
-        "title": "豆包上车之后，AI原生汽车真的来了吗？",
+        "title": "千万小时缺口下的突围：谁在为中国具身智能“喂”数据？",
         "title_en": "",
-        "summary": "“AI原生汽车”的概念频繁出现，从互联网汽车到AI原生汽车，荣威还能再定义一次吗？",
-        "url": "https://www.tmtpost.com/8153291.html",
+        "summary": "在姚卯青看来，AI要进入下一阶段，必须进入物理世界闭环决策，各家公司的数据预算越挂越高，越多越好、越丰富越多样化越好。",
+        "url": "https://www.tmtpost.com/8153852.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sun, 27 Sep 2026 13:45:36 +0800"
+        "publish_time": "Mon, 28 Sep 2026 13:50:00 +0800"
       },
       {
-        "title": "京东101HOME落地静安寺：线下家居卖场，该换个活法了",
+        "title": "谁来为AI投入买单？从价值缺口到应对之道 | 2026 ITValue Summit数字价值年会",
         "title_en": "",
-        "summary": "当整个行业都在求索线下零售的破局方向时，京东101HOME将这套创新模式，交由国内一批眼光毒辣又“挑剔”的消费者检验，开启了一场压力测试。",
-        "url": "https://www.tmtpost.com/8152919.html",
+        "summary": "无论CFO还是CIO，当AI投资的价值验证已成焦点，做好AI落地的前提是对业务的深度理解，否则所有投入都可能变成浪费。",
+        "url": "https://www.tmtpost.com/8149442.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sun, 27 Sep 2026 12:09:06 +0800"
+        "publish_time": "Mon, 28 Sep 2026 13:17:29 +0800"
       },
       {
-        "title": "星舰第14飞，为什么准备绕地球六圈？",
+        "title": "从“命悬一线”到426亿元：长江边小镇，出了个“偏科天才”",
         "title_en": "",
-        "summary": "六圈没有魔力，近10小时才是第14飞的关键。",
-        "url": "https://www.tmtpost.com/8153306.html",
+        "summary": "从“命悬一线”到426亿元：长江边小镇，出了个“偏科天才”",
+        "url": "https://www.tmtpost.com/8153817.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sun, 27 Sep 2026 09:57:33 +0800"
+        "publish_time": "Mon, 28 Sep 2026 11:38:24 +0800"
       },
       {
-        "title": "特斯拉，是Robotaxi的救星吗？",
+        "title": "从端侧推理到物理AI，芯片行业正面临新考题",
         "title_en": "",
-        "summary": "低成本只是第一关。",
-        "url": "https://www.tmtpost.com/8153223.html",
+        "summary": "物理AI的时代，比拼的将是谁的落地更稳。",
+        "url": "https://www.tmtpost.com/8153747.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sun, 27 Sep 2026 08:24:56 +0800"
+        "publish_time": "Mon, 28 Sep 2026 10:54:55 +0800"
       },
       {
-        "title": "从“价格战”到“品质战”，餐饮品牌下半场拼什么？",
+        "title": "Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里",
         "title_en": "",
-        "summary": "品牌力的持续积累与行业共识的不断凝聚，将为餐饮行业的高质量发展注入持久动力。",
-        "url": "https://www.tmtpost.com/8152641.html",
+        "summary": "当所有玩家挤在办公赛道内卷时，C 端场景仍有值得挖的空间。",
+        "url": "https://www.tmtpost.com/8153628.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sun, 27 Sep 2026 08:23:42 +0800"
+        "publish_time": "Mon, 28 Sep 2026 10:33:21 +0800"
       },
       {
-        "title": "外国人来华科技游，看见了什么？",
+        "title": "AI打平创业门槛之后，AI应用大爆发",
         "title_en": "",
-        "summary": "外国人，推开中国工厂的门。",
-        "url": "https://www.tmtpost.com/8153087.html",
+        "summary": "从大厂出走，亲自入局；或留在大厂内部，把新应用当作一场赛马。",
+        "url": "https://www.tmtpost.com/8153790.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 26 Sep 2026 17:55:16 +0800"
+        "publish_time": "Mon, 28 Sep 2026 10:11:56 +0800"
       },
       {
-        "title": "谷歌，准备升空",
+        "title": "管住AI，成了一门新生意",
         "title_en": "",
-        "summary": "皮查伊亲自官宣，谷歌10月1日要把TPU送上轨道",
-        "url": "https://www.tmtpost.com/8153088.html",
+        "summary": "三类玩家，掘金AI安全。",
+        "url": "https://www.tmtpost.com/8153560.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 26 Sep 2026 17:55:05 +0800"
+        "publish_time": "Mon, 28 Sep 2026 09:57:41 +0800"
       },
       {
-        "title": "【数智周报】 千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
+        "title": "吉利、蔚来双向入股，这次瞄准的是补能生意",
         "title_en": "",
-        "summary": "（9月21日~9月26日）亚马逊官宣接入Kimi K3；超聚变发布FusionServer“无极”架构；《AI原生组织转型指南》发布",
-        "url": "https://www.tmtpost.com/8153052.html",
+        "summary": "蔚来要规模，吉利要效率。",
+        "url": "https://www.tmtpost.com/8153600.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 26 Sep 2026 12:46:19 +0800"
+        "publish_time": "Mon, 28 Sep 2026 09:47:59 +0800"
       },
       {
-        "title": "从买东西到买体验：为什么4个周末替代不了一个8天长假？",
+        "title": "2026年上半年债券基金久期分析",
         "title_en": "",
-        "summary": "“请3休13”带火长线旅行，背后不只是拼假技巧。随着服务消费占比接近一半，越来越多消费需要消费者本人到场、停留和参与。钱可以储存，时间却很难跨日期合并。四个周末和一个八天长假总量相同，却对应着完全不同的消费边界。",
-        "url": "https://www.tmtpost.com/8153043.html",
+        "summary": "通过对这三类基金久期的系统性分析，能够更准确地捕捉债券市场的利率风险暴露程度，为投资者评估基金风险收益特征、优化资产配置提供关键依据。",
+        "url": "https://www.tmtpost.com/8153713.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 26 Sep 2026 12:34:26 +0800"
+        "publish_time": "Mon, 28 Sep 2026 09:21:12 +0800"
       }
     ],
     "国际科技新闻": [
+      {
+        "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图 - 36kr.com",
+        "title_en": "",
+        "summary": "谁在给 AI 付账单：八大科技巨头的万亿投注版图&nbsp;&nbsp;36kr.com",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUWlMeTRtMWFFa1I5Y3VxQmhqOURLNkRZSVA1THo3QVg3d1FYNXk4NTFXYXpsWExNdWROVExkNjhiVXc1eWVDY18zZXhxUQ?oc=5",
+        "source": "36kr.com",
+        "publish_time": "Sat, 29 Aug 2026 07:00:00 GMT"
+      },
       {
         "title": "英伟达拟129亿美元买下“AI界GitHub”，小鹏机器人掀起资本竞赛 - 风闻",
         "title_en": "",
@@ -93,12 +101,20 @@
         "publish_time": "Tue, 01 Sep 2026 03:08:21 GMT"
       },
       {
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图 - 36Kr",
+        "title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤 - 新浪财经",
         "title_en": "",
-        "summary": "谁在给 AI 付账单：八大科技巨头的万亿投注版图&nbsp;&nbsp;36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUWlMeTRtMWFFa1I5Y3VxQmhqOURLNkRZSVA1THo3QVg3d1FYNXk4NTFXYXpsWExNdWROVExkNjhiVXc1eWVDY18zZXhxUQ?oc=5",
-        "source": "36Kr",
-        "publish_time": "Sat, 29 Aug 2026 07:00:00 GMT"
+        "summary": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤&nbsp;&nbsp;新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NbG92aTM2MV82RHdBVDRpOTZMcTJKSUNqMGQ3OTlzNTR1UnkzWE9LNDlXZF9hbkhuYTRKc3RjbHpCOVRzSEVaanhOOURsUTRSQnBuUTBFTmNsN0QtM0RQOEtQcHNqcWNHbnR5UFB3YTM0VHMzT1lJZUhOMFI?oc=5",
+        "source": "新浪财经",
+        "publish_time": "Mon, 19 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "硅谷最贵华人放弃 14 亿天价 offer，上交校友庞若鸣提桶投奔 OpenAI - 新浪财经",
+        "title_en": "",
+        "summary": "硅谷最贵华人放弃 14 亿天价 offer，上交校友庞若鸣提桶投奔 OpenAI&nbsp;&nbsp;新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbEViN2FKS3hoTldvRjRackp2VE1Ya0xvdnB0cE5zU1RqYTJyNVFGMGpEUUlYTFdJUjAyOC1zaERwM0RqaXNDQ3NOdHJnYlR3cURZS0JlZjl0MHdlY05YV19wdy1GUDVPZHlYLVlfQ0Z1UHJYa0pESDNuclFnMnM?oc=5",
+        "source": "新浪财经",
+        "publish_time": "Thu, 26 Feb 2026 08:00:00 GMT"
       },
       {
         "title": "Anthropic为什么不做硬件？ - Moomoo",
@@ -117,6 +133,14 @@
         "publish_time": "Tue, 12 May 2026 07:00:00 GMT"
       },
       {
+        "title": "砸10亿美元引入谷歌当外援，苹果AI能翻身吗？ - mp.ofweek.com",
+        "title_en": "",
+        "summary": "砸10亿美元引入谷歌当外援，苹果AI能翻身吗？&nbsp;&nbsp;mp.ofweek.com",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNmVjQmlMb1ZaYVZOclIxa3J4dFdwRzBqTDQ1WHNEdEE2VXBvZ2I0a0JlWHg5WXotWi1VV2U2NjQyYldPWU9ObGpQeEp1d0E?oc=5",
+        "source": "mp.ofweek.com",
+        "publish_time": "Wed, 14 Jan 2026 08:00:00 GMT"
+      },
+      {
         "title": "2026 年硅谷五大科技巨头财报：AI 投资从信仰到验证，谁能突出重围？ - blog.csdn.net",
         "title_en": "",
         "summary": "2026 年硅谷五大科技巨头财报：AI 投资从信仰到验证，谁能突出重围？&nbsp;&nbsp;blog.csdn.net",
@@ -125,44 +149,20 @@
         "publish_time": "Mon, 04 May 2026 07:00:00 GMT"
       },
       {
-        "title": "靠API躺着赚钱的时代要终结了，Kimi 砸碎护城河、OpenAI 孤立无援、谷歌仍深陷内耗 - 36Kr",
-        "title_en": "",
-        "summary": "靠API躺着赚钱的时代要终结了，Kimi 砸碎护城河、OpenAI 孤立无援、谷歌仍深陷内耗&nbsp;&nbsp;36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wa01iSWdPQmZFS0dLOXdZOVpjb2tzOGJodmlUUTFoazZfalE4UkswdDR3d29qRDNVVVlFQ1d2enBvQlZ0cGxPN1ZfTlp4Zw?oc=5",
-        "source": "36Kr",
-        "publish_time": "Wed, 22 Jul 2026 07:00:00 GMT"
-      },
-      {
-        "title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤 - finance.sina.com.cn",
-        "title_en": "",
-        "summary": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤&nbsp;&nbsp;finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NbG92aTM2MV82RHdBVDRpOTZMcTJKSUNqMGQ3OTlzNTR1UnkzWE9LNDlXZF9hbkhuYTRKc3RjbHpCOVRzSEVaanhOOURsUTRSQnBuUTBFTmNsN0QtM0RQOEtQcHNqcWNHbnR5UFB3YTM0VHMzT1lJZUhOMFI?oc=5",
-        "source": "finance.sina.com.cn",
-        "publish_time": "Mon, 19 Jan 2026 08:00:00 GMT"
-      },
-      {
-        "title": "硅谷最贵华人放弃 14 亿天价 offer，上交校友庞若鸣提桶投奔 OpenAI - finance.sina.com.cn",
-        "title_en": "",
-        "summary": "硅谷最贵华人放弃 14 亿天价 offer，上交校友庞若鸣提桶投奔 OpenAI&nbsp;&nbsp;finance.sina.com.cn",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbEViN2FKS3hoTldvRjRackp2VE1Ya0xvdnB0cE5zU1RqYTJyNVFGMGpEUUlYTFdJUjAyOC1zaERwM0RqaXNDQ3NOdHJnYlR3cURZS0JlZjl0MHdlY05YV19wdy1GUDVPZHlYLVlfQ0Z1UHJYa0pESDNuclFnMnM?oc=5",
-        "source": "finance.sina.com.cn",
-        "publish_time": "Thu, 26 Feb 2026 08:00:00 GMT"
-      },
-      {
-        "title": "Siri终于有救了！苹果官宣联姻谷歌但国行用户还要再等等- 其他 - 亿邦动力",
-        "title_en": "",
-        "summary": "Siri终于有救了！苹果官宣联姻谷歌但国行用户还要再等等- 其他&nbsp;&nbsp;亿邦动力",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53cEczTmZEanpoaE9FajhnOERoVU56ZkVCUEM5WlZMTWhXZFdjT2xiNEFWZzc1dDVKYi1xU2QzOEVDY1JJMTFjX2FDYXRKc2VIbzMtdzl3?oc=5",
-        "source": "亿邦动力",
-        "publish_time": "Wed, 14 Jan 2026 08:00:00 GMT"
-      },
-      {
         "title": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan - Nweon",
         "title_en": "",
         "summary": "春节汇总：苹果AI眼镜，Meta VR战略，PICO Project Swan&nbsp;&nbsp;Nweon",
         "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxMnhvOVlHYk9hS0MtOTVNS3JyeWdKRW1Ma2Rxak1HcktYWEdaZkh4TjllcmR5aC1qYWEzSTZ3MFFpaWM?oc=5",
         "source": "Nweon",
         "publish_time": "Mon, 23 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Meta花2亿美元挖来的华人天才少年转投OpenAI - cnBeta.COM",
+        "title_en": "",
+        "summary": "Meta花2亿美元挖来的华人天才少年转投OpenAI&nbsp;&nbsp;cnBeta.COM",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqRldWaWpCZ1BRN0pkM1VfVWZWMTlfbkt6OWlGY21fUnZiOWx2S1FvTHNvMmtHc0NhMkZEcDIzVnRMODlXZlY4bjFQYTlvcHpiSzFFZk41X01oREs0SjlUUA?oc=5",
+        "source": "cnBeta.COM",
+        "publish_time": "Thu, 26 Feb 2026 08:00:00 GMT"
       }
     ],
     "国内新消费新闻": [],
@@ -182,14 +182,6 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFQxVXVaTDZjS0YyWURQb1lHeGFCbGZvUkx6dGVjVUlFQnNvTFpNQkJ2UnF6ZHdQNFlXOE4zTXQwSXE4OWU1S3FURkFka25mVi1pc2Z6VFJwVXBpcTljQl9VbzZFUnB4SzdESDU0TzRha1pRcTE2Nlpvd2h6QlFFbk5tU0JxaEVZOGp5dzVpQ2VjYjV6XzhhV21JT0lwYjN3U2FLd2gwM0ZKYkxjN3dKeVk1d2o?oc=5",
         "source": "一财全球Yicai Global",
         "publish_time": "Thu, 19 Mar 2026 10:50:43 GMT"
-      },
-      {
-        "title": "Walmart, Target, Amazon Lose Holiday Shoppers to China's Shein, Temu - 一财全球Yicai Global",
-        "title_en": "",
-        "summary": "Walmart, Target, Amazon Lose Holiday Shoppers to China's Shein, Temu&nbsp;&nbsp;一财全球Yicai Global",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjFjSTdjVXQwb3RVOVR2Uml4cHFhY0xOb1F1VVdpQTVLQ3RSdlNBLTJ5S1Z3TkhBZzFGRGRfNWdzMzhWYTBuZ3JJWTh6dl8yQ3Y1WWNDMFJIek1qaVVVRWVMV3k4Ukt2R21xbkhneER4d3MxcS1aSllPLUUtSXJhcTRIUjg5QzQzT1FTLXZOdjhEWUhvY1BUa1JTa3Z4Zw?oc=5",
-        "source": "一财全球Yicai Global",
-        "publish_time": "Wed, 29 Nov 2023 08:00:00 GMT"
       },
       {
         "title": "Alibaba’s Taobao Unveils Black Label for Original Premium Fashion Brands - 一财全球Yicai Global",
