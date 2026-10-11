@@ -1,86 +1,86 @@
 {
-  "update_time": "2026-10-10 15:08:03",
+  "update_time": "2026-10-11 15:12:39",
   "sections": {
     "国内科技新闻": [
       {
-        "title": "天津，一座被低估的AI基建重镇",
+        "title": "AI创造的新工作，可能根本轮不到你",
         "title_en": "",
-        "summary": "低调的天津从来不只是“注册地”，更是科技产业链上的共建者和押注者",
-        "url": "https://www.tmtpost.com/8163595.html",
+        "summary": "未来真正稀缺的，可能不只是工作机会，还有让一个普通人从什么都不会，逐渐成为专业人才的机会。",
+        "url": "https://www.tmtpost.com/8164296.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 12:06:59 +0800"
+        "publish_time": "Sun, 11 Oct 2026 13:08:00 +0800"
       },
       {
-        "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
+        "title": "李嘉诚1100亿港元套现电网，268亿逆势囤油砂，到底在赌什么",
         "title_en": "",
-        "summary": "在 EOA 范式下，中国一汽基于数据形成认知体系，让企业智能体围绕经营目标高效协同，并在运行反馈中不断进化，重塑企业的进化路径。",
-        "url": "https://www.tmtpost.com/8155165.html",
+        "summary": "李嘉诚1100亿港元套现英国电网，268亿加码加拿大油砂，能源资产大腾挪背后逻辑何在？",
+        "url": "https://www.tmtpost.com/8164290.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 10:11:51 +0800"
+        "publish_time": "Sun, 11 Oct 2026 13:01:00 +0800"
       },
       {
-        "title": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power",
+        "title": "李诞代言汉堡王“丑”翻车，笑点为什么没能变成食欲？",
         "title_en": "",
-        "summary": "Major Chinese platforms have accelerated plans for personal agents, yet full releases remain limited. The binding constraint is not model capability but whether rival apps will allow an agent to ac...",
-        "url": "https://www.tmtpost.com/8163541.html",
+        "summary": "快餐代言的第一判断标准永远是食欲，不是段子。",
+        "url": "https://www.tmtpost.com/8164281.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 10:08:03 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:54:00 +0800"
       },
       {
-        "title": "00后“戒断”AI短剧：一个月卸载了5次",
+        "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
         "title_en": "",
-        "summary": "一场“戒毒”拉锯战。",
-        "url": "https://www.tmtpost.com/8163363.html",
+        "summary": "agent底座之争，OpenAI又被针对了。",
+        "url": "https://www.tmtpost.com/8164268.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 09:13:39 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:50:00 +0800"
       },
       {
-        "title": "还是别太期待国产Muse了",
+        "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
         "title_en": "",
-        "summary": "豆包手机的难题还在。",
-        "url": "https://www.tmtpost.com/8162951.html",
+        "summary": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
+        "url": "https://www.tmtpost.com/8164235.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 09:11:21 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:44:00 +0800"
       },
       {
-        "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
+        "title": "Manus被AI大厂重新定价",
         "title_en": "",
-        "summary": "10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。",
-        "url": "https://www.tmtpost.com/8163462.html",
+        "summary": "Meta退单后，Manus的身价还涨了？",
+        "url": "https://www.tmtpost.com/8164195.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 09:10:22 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:38:00 +0800"
       },
       {
-        "title": "Manus，没能逃出巨头的游戏",
+        "title": "美图公司大起大落",
         "title_en": "",
-        "summary": "Agent 时代，独立不是答案。找到不可替代的位置，才是。",
-        "url": "https://www.tmtpost.com/8163447.html",
+        "summary": "美图公司股价起伏频繁，经历多次起伏，但凭借业绩增长和AI技术转型，仍保持发展，成为科技领域的典型案例。",
+        "url": "https://www.tmtpost.com/8164230.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 09:09:41 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:33:00 +0800"
       },
       {
-        "title": "Muse发布一个月，Personal Agent让新 BAT 集体上头",
+        "title": "3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本",
         "title_en": "",
-        "summary": "小公司探路，大厂开始算账",
-        "url": "https://www.tmtpost.com/8163156.html",
+        "summary": "芯片越堆越高，性能未必越好，利润也未必越多。决定 3D 集成能否规模商业化的，不只是键合精度，而是每颗合格芯片最终要花多少钱。",
+        "url": "https://www.tmtpost.com/8163821.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 09:08:54 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:27:20 +0800"
       },
       {
-        "title": "千亿美元PE巨头，今年靠投资航空赚翻了",
+        "title": "西西弗书店是怎么赚钱的？",
         "title_en": "",
-        "summary": "千亿美元PE巨头，今年靠投资航空赚翻了",
-        "url": "https://www.tmtpost.com/8163118.html",
+        "summary": "卖书真的很难赚钱。",
+        "url": "https://www.tmtpost.com/8164243.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 09:08:15 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:26:01 +0800"
       },
       {
-        "title": "获腾讯投资！AI存储商星辰天合的一体机毛利率连降，创始人面临对赌危机",
+        "title": "利润暴涨968%，天赐材料却急着赴港募资，中国电解液龙头们在海外是否还能称王称霸",
         "title_en": "",
-        "summary": "AI储存“含金量”待考。",
-        "url": "https://www.tmtpost.com/8163422.html",
+        "summary": "天赐材料通过港交所聆讯，募资出海扩产待验证。",
+        "url": "https://www.tmtpost.com/8164289.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Sat, 10 Oct 2026 09:06:38 +0800"
+        "publish_time": "Sun, 11 Oct 2026 12:22:57 +0800"
       }
     ],
     "国际科技新闻": [
