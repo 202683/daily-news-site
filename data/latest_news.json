@@ -1,112 +1,104 @@
 {
-  "update_time": "2026-11-11 15:45:05",
+  "update_time": "2026-11-12 16:20:14",
   "sections": {
     "国内科技新闻": [
       {
-        "title": "黄仁勋危局：CEO职位恐不保，一段婚外情背后的出口管制风暴",
+        "title": "AI浓度最高的一届双十一，增量在哪里？",
         "title_en": "",
-        "summary": "网络安全专家 Alperovitch 在 CNBC 访谈中断言黄仁勋几乎不可能保住 CEO 职位：真正致命的不是婚外情，而是涉嫌绕过美国出口管制、干预联邦调查的系列指控。",
-        "url": "https://www.tmtpost.com/8201159.html",
+        "summary": "当全网低价已不再是平台比拼的重点，AI能让双十一产生质变吗？",
+        "url": "https://www.tmtpost.com/8201450.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 15:22:00 +0800"
+        "publish_time": "Thu, 12 Nov 2026 15:59:11 +0800"
       },
       {
-        "title": "AI短剧混战：大厂争夺的是剧本，还是下一代流量入口",
+        "title": "当算力遇上“电墙”，英飞凌豪赌300毫米氮化镓背后",
         "title_en": "",
-        "summary": "大厂真正握在手里的是三件事：什么内容能上线、上线后能拿到多少流量、按什么比例结算。",
-        "url": "https://www.tmtpost.com/8201130.html",
+        "summary": "AI竞赛大背景下，从芯片制程延伸到电力供给，氮化镓正从充电器市场的\"网红材料\"，升级为数据中心供电架构的底层选择。",
+        "url": "https://www.tmtpost.com/8202543.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 15:17:24 +0800"
+        "publish_time": "Thu, 12 Nov 2026 14:14:30 +0800"
       },
       {
-        "title": "当幼儿园陆续消失，一场育儿焦虑的退潮",
+        "title": "机器人要进工厂，光靠机器人公司还不够",
         "title_en": "",
-        "summary": "短短数年，这一套焦虑链条正在松动。",
-        "url": "https://www.tmtpost.com/8201112.html",
+        "summary": "机器人公司负责造机器人，但服装厂和机床企业已经开始参与产品与模型研发。从晨风的真实工位测试，到创造力与智元的联合开发，制造企业究竟在为机器人提供什么？",
+        "url": "https://www.tmtpost.com/8202019.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:59:17 +0800"
+        "publish_time": "Thu, 12 Nov 2026 13:17:00 +0800"
       },
       {
-        "title": "中产的下一个抠门对象：超级双11",
+        "title": "全球每三把卷尺，就有两把来自河南的这个县",
         "title_en": "",
-        "summary": "有钱的不知道想买啥，没钱的不知道能买啥。",
-        "url": "https://www.tmtpost.com/8201022.html",
+        "summary": "虞城在全球制造业里的地位属于整个县，议价能力要每家企业自己去挣。",
+        "url": "https://www.tmtpost.com/8202393.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:55:52 +0800"
+        "publish_time": "Thu, 12 Nov 2026 13:13:00 +0800"
       },
       {
-        "title": "中国AI，越来越烧钱",
+        "title": "英伟达，可能失去黄仁勋",
         "title_en": "",
-        "summary": "AI投资持续加码，中国科技公司面临资金与盈利的双重考验。",
-        "url": "https://www.tmtpost.com/8201106.html",
+        "summary": "黄仁勋去留成疑，英伟达面临估值与管理层双重考验。",
+        "url": "https://www.tmtpost.com/8202462.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:55:42 +0800"
+        "publish_time": "Thu, 12 Nov 2026 13:09:03 +0800"
       },
       {
-        "title": "假如BLG夺冠了，谁会成为商业上的大赢家？",
+        "title": "华东医药的80.3%，还不是MASH的完整答案",
         "title_en": "",
-        "summary": "允许医美",
-        "url": "https://www.tmtpost.com/8200288.html",
+        "summary": "仍隔着几轮试验。",
+        "url": "https://www.tmtpost.com/8202391.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:35:16 +0800"
+        "publish_time": "Thu, 12 Nov 2026 13:08:51 +0800"
       },
       {
-        "title": "中国55%的Token烧在短剧，美国58%烧在代码：Token的流向，暴露了AI的两种“活法”",
+        "title": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻",
         "title_en": "",
-        "summary": "本文通过核验 GitHub Copilot 用户与付费订阅数据、AI 短剧算力成本，厘清行业容易混淆的两组关键数字，对比流量型与生产力型 AI 的差异，拆解 Token 流向背后的商业逻辑，剥离行业流传的不实叙事，还原当下 AI 产业真实的付费与成本面貌。",
-        "url": "https://www.tmtpost.com/8198782.html",
+        "summary": "神坛之下，公司才真正开始。",
+        "url": "https://www.tmtpost.com/8201671.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:35:11 +0800"
+        "publish_time": "Thu, 12 Nov 2026 13:08:44 +0800"
       },
       {
-        "title": "姚期智杨植麟联手，让数学家松了一口气",
+        "title": "零售巨头MUJI，为什么反复开酒店？",
         "title_en": "",
-        "summary": "没有任何模型能真正解决开放猜想。",
-        "url": "https://www.tmtpost.com/8200965.html",
+        "summary": "全球四家，中国独占三家。",
+        "url": "https://www.tmtpost.com/8202380.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:35:07 +0800"
+        "publish_time": "Thu, 12 Nov 2026 13:02:26 +0800"
       },
       {
-        "title": "便宜5000元的加拿大鹅，治不好山姆的会员焦虑",
+        "title": "卫星化学再投207亿元，连云港补上C3产业链",
         "title_en": "",
-        "summary": "越扩张，越难独特",
-        "url": "https://www.tmtpost.com/8200306.html",
+        "summary": "行业处于低景气阶段。",
+        "url": "https://www.tmtpost.com/8202394.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:35:01 +0800"
+        "publish_time": "Thu, 12 Nov 2026 13:02:21 +0800"
       },
       {
-        "title": "很多人都错怪了泡泡玛特",
+        "title": "最近，投资人流行投“有眼力见儿”的AI",
         "title_en": "",
-        "summary": "别把LABUBU当成了泡泡玛特的全部本事。",
-        "url": "https://www.tmtpost.com/8200747.html",
+        "summary": "当智能开始拥有不同形态的身体，如何与人类共同生活，正在成为AI 产业必须回答的新问题。",
+        "url": "https://www.tmtpost.com/8202382.html",
         "source": "钛媒体：引领未来商业与生活新知",
-        "publish_time": "Wed, 11 Nov 2026 14:34:57 +0800"
+        "publish_time": "Thu, 12 Nov 2026 12:56:42 +0800"
       }
     ],
     "国际科技新闻": [
       {
-        "title": "德国反垄断机构就Google车载地图服务启动市场问询 - Pasquale Pillitteri",
+        "title": "METR 发布报告，AI 让 Anthropic 的研发速度翻了一倍 - Pasquale Pillitteri",
         "title_en": "",
-        "summary": "德国反垄断机构就Google车载地图服务启动市场问询&nbsp;&nbsp;Pasquale Pillitteri",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWl0YUNpOW1DM2RQcm9Nc1hRY3p1VXlyNTUwc1FqdmZvNWZlTERqM2ZKUkE4MGludlRzZnRSNGtYejRxTWJKZENybGc4T0Zkc3BocWRGMFdzbFJOLVJjc2JWVGxWOTZvSHR6cTg4dXVxMU5nem9nN2pJRFE0QkV2UGtBYnplY0k?oc=5",
+        "summary": "METR 发布报告，AI 让 Anthropic 的研发速度翻了一倍&nbsp;&nbsp;Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2JKNC01TXpEX1k4TVRreVVTelFRSWo5MklreDFjYzhhb0NBR3huWkt1VzZsVHQ3TTZrVGhCWHVqNUdFcV80VGJBQ2lkazFibW1vTDNCTGo5M0ZDczVyWFlxN1NRSFBhR21oUGxleUxvS1VqNGxOQ2hFYzhBbFhWOU96dEUwQQ?oc=5",
         "source": "Pasquale Pillitteri",
-        "publish_time": "Tue, 10 Nov 2026 17:36:04 GMT"
+        "publish_time": "Sat, 07 Nov 2026 09:32:08 GMT"
       },
       {
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图 - 36Kr",
+        "title": "谁在给 AI 付账单： 八大科技巨头的万亿投注版图 - 虎嗅网",
         "title_en": "",
-        "summary": "谁在给 AI 付账单：八大科技巨头的万亿投注版图&nbsp;&nbsp;36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUWlMeTRtMWFFa1I5Y3VxQmhqOURLNkRZSVA1THo3QVg3d1FYNXk4NTFXYXpsWExNdWROVExkNjhiVXc1eWVDY18zZXhxUQ?oc=5",
-        "source": "36Kr",
+        "summary": "谁在给 AI 付账单： 八大科技巨头的万亿投注版图&nbsp;&nbsp;虎嗅网",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xX0pNX00ycldVdThVWTUwbV9Gd2VWem1UcElMcXB2Y1oxMkhueEZ5RExfbFpDNHFnUmhxdU0wSWQwc0JjeENfUWFCNlk0RGtvVnkydg?oc=5",
+        "source": "虎嗅网",
         "publish_time": "Sat, 29 Aug 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Meta在全球推出AI识别技术，揪出Instagram上的未成年用户 - Pasquale Pillitteri",
-        "title_en": "",
-        "summary": "Meta在全球推出AI识别技术，揪出Instagram上的未成年用户&nbsp;&nbsp;Pasquale Pillitteri",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVNZQ0pRSkdXbHY0ZFdRTW9SQnVoa1JTWS10V0Y0b0ktVEk5cG9MYVJ1eDRJRUNHQVpvNGJFV285S0R0MjdNSmllVXhGaFljYVBRdWxDQ2ZHQVo0anFUNGtaWll4NUVCVWpuRzdsU05RdldFLXdHYjhvWVgwczlhQUZ4RGpUNDM0TFE?oc=5",
-        "source": "Pasquale Pillitteri",
-        "publish_time": "Tue, 10 Nov 2026 08:51:38 GMT"
       },
       {
         "title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤 - 新浪财经",
@@ -125,28 +117,20 @@
         "publish_time": "Thu, 01 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "METR 发布报告，AI 让 Anthropic 的研发速度翻了一倍 - Pasquale Pillitteri",
+        "title": "微软专利曝光闲置显卡付费训练AI的方案 - Pasquale Pillitteri",
         "title_en": "",
-        "summary": "METR 发布报告，AI 让 Anthropic 的研发速度翻了一倍&nbsp;&nbsp;Pasquale Pillitteri",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2JKNC01TXpEX1k4TVRreVVTelFRSWo5MklreDFjYzhhb0NBR3huWkt1VzZsVHQ3TTZrVGhCWHVqNUdFcV80VGJBQ2lkazFibW1vTDNCTGo5M0ZDczVyWFlxN1NRSFBhR21oUGxleUxvS1VqNGxOQ2hFYzhBbFhWOU96dEUwQQ?oc=5",
+        "summary": "微软专利曝光闲置显卡付费训练AI的方案&nbsp;&nbsp;Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDVEVUE2OVZwSjItaWprRlkwYlR3ZGlLcnRYOWVoeFRLODNpakpZRWozSUh1RzJCZVR3R3NEclloeDViQ3Y5OEw0RDlrb2N3elpSVF81SkVPOWZPM2EySkxnMWRoVEk0QzY5QTVQVW5QRmF0OW5namh5MVJGS1JXd3lTb1l3Z2M?oc=5",
         "source": "Pasquale Pillitteri",
-        "publish_time": "Sat, 07 Nov 2026 09:32:08 GMT"
+        "publish_time": "Thu, 05 Nov 2026 08:00:00 GMT"
       },
       {
-        "title": "2025 AI巨头“全员恶人”：恩怨、爱恨与算计 - 36Kr",
+        "title": "Reddit 宣布强制登录, 测试先在美国以外启动 - Pasquale Pillitteri",
         "title_en": "",
-        "summary": "2025 AI巨头“全员恶人”：恩怨、爱恨与算计&nbsp;&nbsp;36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iZDVtMGx6elE4U2otQnZaOW53dXNDQXdUbGJBcU01NjdLazZNaUpacFBZLUMwTEMtdk9HMzBxVUVjZ2hDT01TWDlCaExRdw?oc=5",
-        "source": "36Kr",
-        "publish_time": "Tue, 06 Jan 2026 08:00:00 GMT"
-      },
-      {
-        "title": "苹果官宣iPhone将搭载最强AI！马斯克第一个跳出来骂 - 凤凰网科技",
-        "title_en": "",
-        "summary": "苹果官宣iPhone将搭载最强AI！马斯克第一个跳出来骂&nbsp;&nbsp;凤凰网科技",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41Nk5VS0R1dDRjSWFsaTI5dVNVYUJuYkJ2a0ZsM0VBZ1JhYlJpVTN1T29uOVJqTEhmWllvYmJNM0xkY2ZFUE9IbUFLTm4?oc=5",
-        "source": "凤凰网科技",
-        "publish_time": "Tue, 13 Jan 2026 08:00:00 GMT"
+        "summary": "Reddit 宣布强制登录, 测试先在美国以外启动&nbsp;&nbsp;Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU01JcnAwd0MzTzlpd0JvTDk1V1AxZXViSmNFNDJRbUhrWEhBV0NmdUFQWU9lOGM4VXNaWk0yZ0ZDeHdNU1kyOWdFWW9LUzhPRlhUeVhVbzZjMl9kSkVhYnNlUDIxeFY1LXI1WDZxWGJFLTNwa09tMTNYSFdLRzdpYl8xeWc2VkNPWFNyQW0tRjBTSUJQZk5z?oc=5",
+        "source": "Pasquale Pillitteri",
+        "publish_time": "Fri, 30 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "ChatGPT、Gemini、Meta AI：家长可以对 AI 聊天机器人进行哪些管控 - Notebookcheck CN",
@@ -163,6 +147,22 @@
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVJTQm9kbW1lWmw0eXFQUGl1ZFMwbHJmTHNtTFluSUZyaWttU2tsVUZZOHRyU1REeng5QVJhdFJrRERzOGxpSmhsRUVSRm1JaEVyVFRINTBJT2wweVkyQ2Z4bGprNkxhNU1RMkg5eURvRGdDSmFueHlTV19TUzhKVU83QmxtQWQ3cl9XeXV5QTNzWEphQWlkcFYtSTBZWFlGQjU1TktFaTVjX1FpekFEVnhLRzB3ampxSVo0QmtHRmRMNnNzWEFvZEk2X0gxRGlIU1I5ZkxKNVVTakpyc2d0OW1HcGpQQ0ZwZVI4?oc=5",
         "source": "TradingKey",
         "publish_time": "Fri, 30 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "英伟达的疯狂账本：一边收割巨头，一边「包养」OpenAI - 智源社区",
+        "title_en": "",
+        "summary": "英伟达的疯狂账本：一边收割巨头，一边「包养」OpenAI&nbsp;&nbsp;智源社区",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nd01XRHpYSDZuMFJObzhGRmxBWU9jdXdySDlIY3B0ZTZ0ZU5HSG1HMVhXeFVvc2dEVDYzRklKT3k0UkdmVnpIbQ?oc=5",
+        "source": "智源社区",
+        "publish_time": "Mon, 01 Dec 2025 08:00:00 GMT"
+      },
+      {
+        "title": "OpenAI 宣布支持 robots.txt 统一信号，网站可拒绝被用于 AI 训练 - Pasquale Pillitteri",
+        "title_en": "",
+        "summary": "OpenAI 宣布支持 robots.txt 统一信号，网站可拒绝被用于 AI 训练&nbsp;&nbsp;Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFlDWFhJNFlWb1lXTkR6Z3E3WjhwdHo0WXk5empqcW9TU0tkNTZFWS0xYVNaWUc1ZFRPSVA2UHhsZnVURnBrMTNqS1FYbkwwbnlmbFNRekJpTm42SFkzSmRRYURKbUFwVElNTlJnTXZRYUFOQXlqM2hHdkxzdGQ1b3ZjUGNHUQ?oc=5",
+        "source": "Pasquale Pillitteri",
+        "publish_time": "Mon, 02 Nov 2026 08:00:00 GMT"
       }
     ],
     "国内新消费新闻": [],
@@ -200,12 +200,12 @@
         "publish_time": "Tue, 14 Apr 2026 07:00:00 GMT"
       },
       {
-        "title": "[Preview of the Weekly] Luxury Brands Shift Strategies in China - Caixin Global",
+        "title": "Beyond luxury malls, Shanghai's designer brands draw repeat visits from foreign shoppers - Jiemian.com",
         "title_en": "",
-        "summary": "[Preview of the Weekly] Luxury Brands Shift Strategies in China&nbsp;&nbsp;Caixin Global",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYVE1TlZETlNzNThuTXNDb2l1QjF0TzlRYzBDdElSWG5QMWQ2VGlOU281YW5mcTVfem1LaDJvX2dsaktzdGkyOF92RndKNVozV0x5VkExcTFVdlAtaEFnbm40TzJ1Qzh3d0FXdDhSWHBBb0JjdXNXSjVRbzdtdHo1a3pKXzAzX00tMWpSY09UV2hONmdyWVQwa3FROGRwVnlzM1BuaHZ0TzNoN1hBVmVDaThSWC1jS2JwZVkzSklGZmxvSTZUWkV3bU9oVndOUGNDSTUzdFhWT1c1Y2RxN29Rb2pJS3VVYUMwTjh3dkhKOXdaaTF5R1gxd28td2g?oc=5",
-        "source": "Caixin Global",
-        "publish_time": "Sat, 02 Dec 2023 08:00:00 GMT"
+        "summary": "Beyond luxury malls, Shanghai's designer brands draw repeat visits from foreign shoppers&nbsp;&nbsp;Jiemian.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VaHAtZ29nSGlIVVl5bDZrVTFsZkoyRHZzRVl5bUMxdVdVc1VpOVFpYnVEY05EX1UydmFXZnplQmdST2oxQmZKLVZtVU54T2U1dElLaFBn?oc=5",
+        "source": "Jiemian.com",
+        "publish_time": "Thu, 12 Feb 2026 00:10:08 GMT"
       }
     ]
   }
